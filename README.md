@@ -1,4 +1,4 @@
-# Recriando a Wikipdia com Layout Moderno | Dio
+# Recriando a Wikipedia com Layout Moderno | Dio
 # Página Semântica – Alice in Borderland (Série de TV)
 
 Este projeto recria a página da Wikipédia da série *Alice in Borderland*, com foco em **acessibilidade**, **estrutura semântica** e **uso correto de HTML5**.
